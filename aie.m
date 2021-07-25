@@ -23,7 +23,7 @@ cam = webcam;
 
 % Initializing the Alexnet CNN
 nnet=alexnet;
-nnet.load('alexnet_weights.mat');
+nnet.load('E:\Sarthak\Hack\alexnet_weights.mat');
 
 
 while true
